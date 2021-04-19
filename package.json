@@ -1,0 +1,16 @@
+{
+  "name": "karma-jusmine-base",
+  "version": "1.0.0",
+  "description": "Minimum sample of karma and jusmine",
+  "main": "index.js",
+  "scripts": {
+    "test": "karma start"
+  },
+  "author": "mitsu-ki",
+  "license": "ISC",
+  "devDependencies": {
+    "karma": "^6.3.2",
+    "karma-chrome-launcher": "^3.1.0",
+    "karma-jasmine": "^4.0.1"
+  }
+}
